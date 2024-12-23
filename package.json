@@ -1,0 +1,23 @@
+{
+  "name": "badminton-sys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.3.6",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.2",
+    "pinia": "^2.1.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
+  }
+}
